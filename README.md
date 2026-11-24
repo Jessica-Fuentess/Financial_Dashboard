@@ -77,4 +77,4 @@ Financial_Dashboard/
 ## 📬 Contato
 Fico à disposição para conversar sobre este projeto, trocar ideias sobre **Análise de Dados, Business Intelligence, Engenharia ou Ciência de Dados**, além de discutir soluções orientadas a dados e novos desafios em tecnologia.
 
-- 💼 LinkedIn: [Jéssica Fuentes](https://www.linkedin.com/in/j%C3%A9ssica-fuentes/)
+- 💼 LinkedIn: [Jéssica Fuentes](https://www.linkedin.com/in/jessica-fuentess/)
